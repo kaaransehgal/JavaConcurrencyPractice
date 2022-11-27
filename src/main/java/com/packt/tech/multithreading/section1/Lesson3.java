@@ -1,4 +1,4 @@
-package com.packt.tfesenko.multithreading.section1;
+package com.packt.tech.multithreading.section1;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;
